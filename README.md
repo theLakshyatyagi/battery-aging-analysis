@@ -16,9 +16,13 @@ Includes 3-D plots, ICA curves, and ML evaluation scatterplots.
 
 ## Technologies Used
 Python 3
+
 NumPy – numerical simulation
+
 Pandas – data handling
+
 Matplotlib / mpl_toolkits.mplot3d – visualization
+
 Scikit-learn – machine-learning regression and metrics
 
 ## Project Structure
@@ -44,7 +48,7 @@ Displays charge/discharge curves (dQ/dV vs Voltage) and 3-D ICA peak evolution w
 Task C – Capacity Prediction
 Sample Predictions:
 Example	ActualCapacity	PredictedCapacity	Difference
-   0	      0.5241	         0.5128  	      0.0113
+   0	      0.5241	         0.5128  	      0.011
    1	      0.8356	         0.8222	        0.0134
    2	      0.2987	         0.3069	       −0.0082
    3	      0.6654	         0.6532	        0.0122
@@ -59,10 +63,14 @@ Predicted vs Actual capacity shows a near-diagonal fit, indicating reliable pred
 
 ## Future Improvements
 Use real EIS and ICA datasets instead of simulated values
+
 Integrate temperature and SOC features for better predictions
+
 Experiment with neural networks for advanced regression
+
 Add automated report generation for each test cycle
 
 # Author
 Lakshya Tyagi
+
 Delhi, India
