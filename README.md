@@ -4,10 +4,13 @@ This project demonstrates a simulation-based study of battery degradation using 
 ## Features
 Task A – EIS Visualization:
 Simulates impedance data (R(Z) vs Im(Z)) across 100 aging cycles and visualizes it in a 3-D plot.
+
 Task B – Incremental Capacity Analysis (ICA):
 Plots charge and discharge incremental-capacity curves and analyzes peak shifts with aging.
+
 Task C – Capacity Prediction:
 Trains a Random Forest Regressor to predict current capacity from EIS parameters and cycle count.
+
 Comprehensive Visualizations:
 Includes 3-D plots, ICA curves, and ML evaluation scatterplots.
 
