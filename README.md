@@ -31,10 +31,10 @@ Battery_Aging_Analysis.ipynb   → Main notebook
 README.md                      → Project documentation
 
 ## How to Run
-1. Clone this repository
+1. Clone this repository:
    git clone https://github.com/<your-username>/battery-aging-analysis.git
    cd battery-aging-analysis
-2. Install dependencies
+2. Install dependencies:
    pip install -r requirements.txt
 3. Run the notebook in Jupyter or VS Code and execute all cells.
 
